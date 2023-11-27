@@ -1,0 +1,7 @@
+https://github.com/navedusman/firstproject.git
+
+1- git init 
+2- git remote add origin (then path)  
+3- add . (staging)
+4- git commit -m "version-1" (commiting)
+5- git push origin master   (push)
